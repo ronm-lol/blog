@@ -42,6 +42,19 @@
   padding: 5px 10px;
 }
 
+/* Blinking terminal cursor after the site title */
+.logo::after {
+  content: "▮";
+  margin-left: 2px;
+  animation: cursor-blink 1.1s steps(1) infinite;
+}
+
+@keyframes cursor-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
 /* Responsive */
 @media (max-width: 684px) {
   .header__inner {

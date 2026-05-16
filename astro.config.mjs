@@ -9,7 +9,7 @@ export default defineConfig({
   integrations: [sitemap()],
   markdown: {
     shikiConfig: {
-      theme: 'css-variables',
+      theme: 'synthwave-84',
       langs: [],
       wrap: true,
     },

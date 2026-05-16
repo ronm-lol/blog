@@ -2,12 +2,18 @@
 @import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
 
 :root {
-  --background: #1a170f;
-  --foreground: #eceae5;
-  --accent: #eec35e;
+  --background: #241b2f;
+  --foreground: #e4dcf5;
+  --accent: #ff2e97;
+  --link: #2de2e6;
+  --muted: #8a7299;
   --radius: 0;
   --font-size: 1rem;
   --line-height: 1.54em;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 30%, transparent);
 }
 
 html {
@@ -65,6 +71,11 @@ h6 {
   letter-spacing: 0;
 }
 
+/* Subtle neon glow */
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: 0 0 8px color-mix(in srgb, currentColor 55%, transparent);
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol,
 img, figure, video,
@@ -73,7 +84,12 @@ table {
 }
 
 a {
-  color: var(--accent);
+  color: var(--link);
+  transition: text-shadow 0.15s linear;
+}
+
+a:hover {
+  text-shadow: 0 0 8px color-mix(in srgb, var(--link) 70%, transparent);
 }
 
 button {
