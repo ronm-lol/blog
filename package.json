@@ -1,21 +1,36 @@
 {
-  "name": "ronm-lol",
+  "name": "astro-theme-terminal",
   "type": "module",
-  "version": "0.0.1",
-  "engines": {
-    "node": ">=22.12.0"
+  "version": "1.0.0",
+  "description": "A terminal-inspired theme for Astro, ported from Hugo Terminal Theme by panr",
+  "license": "MIT",
+  "author": "Dennis Klappe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dennisklappe/astro-theme-terminal"
   },
+  "keywords": [
+    "astro",
+    "theme",
+    "terminal",
+    "blog",
+    "monospace",
+    "retro"
+  ],
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "check": "astro check",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^5.0.6",
-    "@astrojs/rss": "^4.0.18",
-    "@astrojs/sitemap": "^3.7.2",
-    "astro": "^6.3.3",
-    "sharp": "^0.34.3"
+    "astro": "^5.15.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.5",
+    "@astrojs/rss": "^4.0.13",
+    "@astrojs/sitemap": "^3.6.0",
+    "typescript": "^5.9.3"
   }
 }
