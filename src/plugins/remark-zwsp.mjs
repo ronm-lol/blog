@@ -11,7 +11,7 @@ export function remarkZwsp() {
           /[a-zA-Z]/.test(node.value[i]) &&
           i < node.value.length - 1
         ) {
-          result += '​';
+          result += '⁠';
         }
       }
       node.value = result;
