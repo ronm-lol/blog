@@ -29,6 +29,9 @@ pnpm-debug.log*
 # claude code project instructions
 CLAUDE.md
 
+# drafts
+src/content/drafts/
+
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
