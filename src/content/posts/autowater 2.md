@@ -1,5 +1,5 @@
 ---
-title: autowter 2
+title: autowater 2
 description: progress update
 pubDate: 21 Jun 2026
 author: ronm.lol
