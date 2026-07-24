@@ -1,0 +1,26 @@
+---
+title: optionality in video games
+description: an exploration on when optionality succeeds and when it fails, with examples
+pubDate: 24 Jul 2026
+author: ronm.lol
+tags:
+  - video games
+  - design
+---
+i play a lot of video games, and since i was a kid i've loved story-driven games. rpgs, narrative focused games, etc. one of the mainstays of the design in these games is the trade-off of exploration for reward. and i'm using vague terms on purpose; exploration might be actually exploring different locations on a map, exploring the story, solving optional puzzles, etc. something that comes from investing time into the game. and the rewards may come in a variety of forms; extra loot, new lore, or even just the challenge of the content itself.
+
+recently i was shocked to find that there are people out there who hate optional content. i'm in a "video game book club" of sorts with some friends, and we played through [Undertale](https://en.wikipedia.org/wiki/Undertale) and [Deltarune](https://en.wikipedia.org/wiki/Deltarune). a few people in the group were very unhappy with the delivery of content in the games (Deltarune in particular) because, i believe, the "good content" was all optional (i will do my best to faithfully represent their argument).
+
+at first i thought this was the dumbest thing i'd ever heard. it's optional, you can just not do it if you don't want to? but as we argued more and more, i realized that they had a point...in games that are not anagrams of lunardeat. one friend shared [this video](https://youtu.be/BOzJVZ3GhEg?si=P0fJyLVa8Bo8rtZh) as supporting evidence. it brought up an example that i think i've willfully ignored most of my life: optional content in games that rewards the player with loot that trivializes the rest of the game. this is a perfect example of bad optional content; the reward for doing it is to ruin the remaining gameplay. bad design, agreed, full stop.
+
+this is far from the only type of optional content, of course. consider a game (masterpiece) like [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)). Celeste is a challenging platformer which does have a central narrative that enriches the experience of climbing the mountain. but once this is done, you may stumble into the B-sides--exceptionally challenging levels requiring a mastery of the game's mechanics and the dedication to learn the levels. the reward for this content is the satisfaction of climbing the metaphorical mountain of difficulty.
+
+this is also not the type of optional content delivered by Toby Fox.
+
+in Undertale and Deltarune, the player's choices matter in ways that significantly change the story. While there are broad routes that you can classify by the decisions that lead to them, the games maintain a very detailed memory of the player's actions and refer to it often, leaving the player feeling like the experience is uniquely theirs. and with such a large number of [(SPOILERS) event](https://deltarune.wiki/w/Completion_FILE) data points, it really will vary significantly between players even if they are on the same broad "routes".
+
+optional content in these games rewards the player with a rare prize: lore. in either game, a player can naively play through the game without thinking too much about the world or characters, and complete a quaint but cozy game without complications. but both games contain parallel routes that reveal significant hidden information, obvious in retrospect, that complicates the simple narrative you glossed over on the first run. if you played Undertale before Deltarune you likely were primed to look for the signs right away, but by investing time into the optional content you can collect extra datapoints to try and triangulate the true story of the characters and world.
+
+i don't think any of the facts of the content are disputed. but what really surprised me was that several people concluded not only that the juice wasn't worth the squeeze, but in fact that the surface level playthrough suffered because of the existence of the optional content. players felt cheated that the best content was locked behind things they _weren't_ required to do. and this, to me, is insanity. it's one thing to decide, again, that the juice isn't worth the squeeze. but it's incomprehensible to me to decide your lunch is worse because you didn't have any juice...that you refused to extract.
+
+there are other games that reward players in this way. recently, [Blue Prince](https://en.wikipedia.org/wiki/Blue_Prince) contains optional content past the end of the puzzle game that goes beyond the surface game and into the deeper story. you can complete the game without it, but your understanding of the world and characters is incomplete without it. [Void Stranger](https://en.wikipedia.org/wiki/Void_Stranger) is a sokoban puzzle game that must be completed multiple times to fully unlock the complex story beyond the straightforward block moving puzzles. and in each case I think the games are significantly richer for this content. and I believe this is generally accepted amongst reviews. but for some reason, the same grace is not extended to Undertale and Deltarune and I can't fathom why.
